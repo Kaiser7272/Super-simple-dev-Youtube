@@ -1,0 +1,37 @@
+.B1{background-color: #FF0000;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	padding-left: 20px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	padding-right: 20px;
+
+
+    margin-right: 8px;
+}
+.B1:hover {
+opacity: 0.3;}
+
+.B2 {
+color: #065FD4;
+background-color: white;
+border-color: #065FD4;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 5px;
+padding-right: 5px;
+
+margin-right: 8px;
+}
+.B3 {
+	color: white;
+background-color: #1DA1F2;
+border: none;
+border-radius: 18px;
+height: 36px;
+
+
+
+
+}
